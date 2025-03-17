@@ -5,7 +5,7 @@ import { Send, Moon, Sun, Trash2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import ChatMessage from "./components/chat-message"
-import LoadingDots from "./components/loading-dots"
+import LoadingDots from "./components/loading-dots" 
 
 // Add these imports at the top
 import { useChat } from "ai/react"
