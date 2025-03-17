@@ -81,12 +81,5 @@ curl -X POST http://localhost:3000/api/chat \
   -d '{"messages": [{"role": "user", "content": "Hello!"}]}'
 ```
 
----
-
-## 📝 Auteur et Licence
-Développé par **[Ton Nom]** 🚀
-Licence **MIT** - Utilisation libre avec attribution.
-
-📌 **N'oublie pas de mettre une ⭐ sur le repo GitHub si ce projet t'a aidé !**
 
 
